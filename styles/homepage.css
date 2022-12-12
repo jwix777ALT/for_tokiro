@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Roboto Slab';
-    src: url('../fonts/Roboto_Slab/static/RobotoSlab-Light.ttf') format('truetype');
+    src: url('https://github.com/jwix777ALT/for_tokiro/raw/main/fonts/Roboto_Slab/static/RobotoSlab-Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
